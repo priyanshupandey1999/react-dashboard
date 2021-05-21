@@ -8,7 +8,7 @@
 
 ### Router ✔
 
-### Feel free to take it as a boilerplate for small and easy to understand dashboard
+### Feel free to take it as a boilerplate and update according to your need for small and easy to understand dashboard.
 
 # Getting Started with Create React App
 
