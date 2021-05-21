@@ -1,3 +1,15 @@
+# Live Link - https://retero-dashboard.netlify.app/
+
+## Tech Stack and concept Used -
+
+### React ✔
+
+### AG Data Grid Library ✔
+
+### Router ✔
+
+### Feel free to take it as a boilerplate for small and easy to understand dashboard
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
